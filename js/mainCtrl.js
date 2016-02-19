@@ -35,7 +35,6 @@ app.controller('mainCtrl', function($scope, itunesService){
       })
     }
 
-
   //Check that the above method is working by entering a name into the input field on your web app, and then console.log the result
 
     //Code here

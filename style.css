@@ -5,9 +5,24 @@ html, body {
 
 .gridStyle {
     border: 1px solid rgb(212,212,212);
-    width: 100%; 
+    width: 100%;
     height: 1200px;
     min-height: 100%;
+}
+
+.sort-menu {
+display: inline-block;
+width: 100px;
+height: 34px;
+padding: 6px 12px;
+font-size: 14px;
+line-height: 1.428571429;
+color: #555;
+vertical-align: middle;
+background-color: #fff;
+background-image: none;
+border: 1px solid #ccc;
+border-radius: 4px;
 }
 
 .ngTopPanel {
